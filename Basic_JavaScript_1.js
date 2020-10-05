@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+
+<script> alert("Hello, World!"); </script>
+
 <script>
 	Function My_First_Function(){
 		var string = "Congratulate me, I'm a student!";
@@ -5,3 +10,4 @@
 		document.getElementByld("Student").innerHTML = result;
 	}
 </script>
+</html>
