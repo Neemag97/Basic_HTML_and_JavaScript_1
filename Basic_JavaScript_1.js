@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 
 <script> alert("Hello, World!"); </script>
 
@@ -10,4 +8,3 @@
 		document.getElementByld("Student").innerHTML = result;
 	}
 </script>
-</html>
